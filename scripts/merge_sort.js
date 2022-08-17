@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   MD Raghib Shakeel
     
     *****************
 */
@@ -75,7 +75,7 @@ function merge_partition(start,end)
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   MD Raghib Shakeel
     
     *****************
 */
