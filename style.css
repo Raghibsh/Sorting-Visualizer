@@ -11,7 +11,6 @@
   font-weight: bold;
   text-transform: uppercase;
 }
-
 nav {
   background-color: #3b3a3a;
   color: white;
@@ -71,11 +70,9 @@ nav .header_right .nav-heading {
 }
 
 nav .header_right .algos {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (16.66667%)[6];
-      grid-template-columns: repeat(6, 16.66667%);
-  place-content: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
   padding: 2% 0%;
 }
 
